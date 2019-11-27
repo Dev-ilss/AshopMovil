@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiConsume</string>
+    <string name="todo">TODO</string>
+    <string name="Ir">Ir a la pagina</string>
+</resources>
